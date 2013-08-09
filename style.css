@@ -1,0 +1,32 @@
+body {
+	width: 500px;
+	margin: auto;
+	padding-top: 20px;
+	font-family: Calibri, sans-serif;
+}
+
+input {
+	width: 488px;
+	padding: 5px;
+	border: 1px solid silver;
+}
+
+button {
+	width: 500px;
+	padding: 4px;
+	border: 1px solid silver;
+	background: #eee;
+}
+
+button:hover {
+	background: #ddd;
+	cursor: pointer;
+}
+
+table {
+	width: 100%;
+}
+
+td:last-child {
+	text-align: right;
+}
